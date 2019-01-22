@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548148454 source:c:\users\silen\documents\1 - etudes\2ème année\c\tp_vecteurs_lc_22012019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vecteurs.h"
+
+1548147096 c:\users\silen\documents\1 - etudes\2ème année\c\tp_vecteurs_lc_22012019\vecteurs.h
+
+1548148505 source:c:\users\silen\documents\1 - etudes\2ème année\c\tp_vecteurs_lc_22012019\vecteurs.c
+	<stdio.h>
+	<stdlib.h>
+	"vecteurs.h"
+
